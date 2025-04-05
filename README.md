@@ -6,7 +6,6 @@
 
 ## 📚 Overview
 
-This project contains comprehensive unit tests for a Java application using **JUnit 5**. The goal is to apply various testing techniques and annotations to ensure robust coverage and quality assurance of the application code.
 
 
 ### 1. Test Features
