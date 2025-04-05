@@ -36,7 +36,7 @@ Each test class includes:
 - ✅ Achieved **~91.8% total coverage**, with each individual test class achieving above **85%**
 #### 📸 Code Coverage Report:
 
-![Code Coverage](images/code-coverage.png)
+![Code Coverage](pic.png)
 ### 7. Parallel Execution
 - ✅ `UserServiceSimpleTest.java` is executed in parallel using `@Execution(ExecutionMode.CONCURRENT)`
 
